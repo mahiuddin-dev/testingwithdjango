@@ -1,0 +1,5 @@
+
+coverage run manage.py test  => coverage test run
+coverage report => see coverage test report
+coverage html => Genarate coverage report in html format
+
